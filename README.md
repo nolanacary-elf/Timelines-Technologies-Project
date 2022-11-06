@@ -16,5 +16,9 @@ transition to a "New Investing Class"?
 
 A repository for documents and code for the Timelines Technologies Project.
 
-Link to supporting documents.
+Link to main supporting document which contains
+some esoteric ideas as well as links to other
+more practical documents and ideas.
+
 https://docs.google.com/document/d/1-_o0xFonDBGdLFfNWtNE-MqkLixel6lqmqaTph60ij8/edit?usp=sharing
+
