@@ -20,5 +20,5 @@ Link to main supporting document which contains
 some esoteric ideas as well as links to other
 more practical documents and ideas.
 
-https://docs.google.com/document/d/1-_o0xFonDBGdLFfNWtNE-MqkLixel6lqmqaTph60ij8/edit?usp=sharing
+## https://docs.google.com/document/d/1-_o0xFonDBGdLFfNWtNE-MqkLixel6lqmqaTph60ij8/edit?usp=sharing
 
